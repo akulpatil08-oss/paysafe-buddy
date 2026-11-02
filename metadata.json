@@ -1,0 +1,6 @@
+{
+  "name": "PaySafe Buddy",
+  "description": "Student-first UPI safety and money app for Indian college students. Scam shield, pocket money budget tracker, group split wallet, and cashback rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
